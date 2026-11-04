@@ -1,10 +1,10 @@
 cask "codeisland-caibitv" do
-  version "1.0.41.1"
-  sha256 "565afb513d93966666f5eb007f744a5010e6185bdd8661a40606c1c77c060b6e"
+  version "1.0.41.2"
+  sha256 "c3650b499576d8e7678c84d094b9b9016463f04709639454785440da22ec5391"
 
   url "https://github.com/CAIBITV/CodeIsland/releases/download/v#{version}/CodeIsland.dmg"
   name "CodeIsland (CAIBITV)"
-  desc "CodeIsland 个人修改版：会话 token 用量与估算速度"
+  desc "刘海屏 AI 编程助手状态面板，显示会话 token 用量与估算速度"
   homepage "https://github.com/CAIBITV/CodeIsland"
 
   depends_on arch: :arm64
