@@ -1,6 +1,6 @@
 cask "codeisland-caibitv" do
-  version "1.0.41.2"
-  sha256 "c3650b499576d8e7678c84d094b9b9016463f04709639454785440da22ec5391"
+  version "1.0.41.3"
+  sha256 "bbc6a7b32bb19ba7b8affebbdde008d47156a58779acf4c7bcc982a4bd6be9fd"
 
   url "https://github.com/CAIBITV/CodeIsland/releases/download/v#{version}/CodeIsland.dmg"
   name "CodeIsland (CAIBITV)"
